@@ -1,4 +1,0 @@
-This is a test document created using Vim on Kali Linux
-
-Adding some notes
-blah blah blah
